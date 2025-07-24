@@ -1,5 +1,4 @@
 # Synapse-S
-Project Synapse S, where we bring back memories and make SirHurt easier for everyone
 First off, we would like to give a huge thanks to @kalash789 and his team for sponsoring this UI. Without him, none of this would be possible.
 
 A couple months back, postrict made this very identical copy of Synapse Blue, but never released it due to various bugs and it being attached to an API that was very unstable. Kalash789 encouraged us heavily to continue developing this UI, so we decompiled an old build (because postrict lost the project) and got to work.
