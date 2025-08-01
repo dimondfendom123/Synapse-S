@@ -1,4 +1,4 @@
-# Synapse-S
+# Synapse-Sirhurt
 Synapse S is the project name for the Synapse Blue and (soon) Synapse Legacy custom UI's for SirHurt
 
 ## How to setup
