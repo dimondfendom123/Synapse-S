@@ -1,4 +1,15 @@
 # Synapse-S
+Synapse S is the project name for the Synapse Blue and (soon) Synapse Legacy custom UI's for SirHurt
+
+## How to setup
+
+1.  Install prerequisites (.net framework)
+2. Install Synapse Installer.exe from the latest release
+3. Once its finished, launch Synapse Blue and you're good to use the UI.
+
+
+# Documentation 
+
 First off, we would like to give a huge thanks to @kalash789 and his team for sponsoring this UI. Without him, none of this would be possible.
 
 A couple months back, postrict made this very identical copy of Synapse Blue, but never released it due to various bugs and it being attached to an API that was very unstable. Kalash789 encouraged us heavily to continue developing this UI, so we decompiled an old build (because postrict lost the project) and got to work.
