@@ -9,6 +9,8 @@ Synapse S is the project name for the Synapse Blue and (soon) Synapse Legacy cus
 
 (Note: if you want to uninstall Synapse Blue, go to settings, press "Open Synapse Folder", close Synapse Bue, and delete the entire folder. This will be simplified in the near feature)
 
+The Synapse Installer should make a shortcut named "Synapse" on the start menu, so whenever you want to open it up again, you can search for it in the windows search bar
+
 
 # Documentation 
 
