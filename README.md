@@ -7,6 +7,8 @@ Synapse S is the project name for the Synapse Blue and (soon) Synapse Legacy cus
 2. Install Synapse Installer.exe from the latest release
 3. Once its finished, launch Synapse Blue and you're good to use the UI.
 
+(Note: if you want to uninstall Synapse Blue, go to settings, press "Open Synapse Folder", close Synapse Bue, and delete the entire folder. This will be simplified in the near feature)
+
 
 # Documentation 
 
@@ -20,7 +22,11 @@ Postrict managed to replicate almost every animation that Synapse Blue featured,
 
 Injection
 
-We managed to hide the sirhurt.exe or injection prompt by developing a custom injector that sirhurt.exe runs within. This can be turned off if you like, but injection indication is already validated through the injection grid process, each step of that injection process was rightfully programmed to validate the step. If you encounter any problems with injection, you can turn off indication logic in the experimental panel.
+We managed to hide the sirhurt.exe or injection prompt by developing a custom injector that sirhurt.exe runs within. This can be turned off if you like, but injection indication is already validated through the injection grid process, each step of that injection process was rightfully programmed to validate the step. If you encounter any problems with injection, you can turn off indication logic in the experimental panel.'
+
+Known Issues
+
+Synapse Blue did take alot of effort to develop, but nothings perfect, and it does come with a little bugs. Most effectively, when you close Synapse Blue, the application seems to crash and take a few seconds to actually close. This will be fixed in the near feature.  
 
 Console
 
