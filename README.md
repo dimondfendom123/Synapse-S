@@ -1,6 +1,7 @@
 # Synapse-Sirhurt
 Synapse S is the project name for the Synapse Blue and (soon) Synapse Legacy custom UI's for SirHurt
 
+
 ## How to setup
 
 1.  Install prerequisites (.net framework)
@@ -12,7 +13,10 @@ Synapse S is the project name for the Synapse Blue and (soon) Synapse Legacy cus
 The Synapse Installer should make a shortcut named "Synapse" on the start menu, so whenever you want to open it up again, you can search for it in the windows search bar
  
 I temporarily disabled the experimental panel because it was just way to buggy and not worth the time to fix, but I will fix it soon. 
-
+# Synapse Blue Showcase
+[![Synapse Blue Preview](https://img.youtube.com/vi/wVV36wQ0nF4/0.jpg)](https://youtu.be/wVV36wQ0nF4)
+<img src="https://i.imgur.com/ZsFzoIM.png">
+<img src="https://i.imgur.com/mU50s8G.png">
 
 # Documentation 
 
@@ -35,6 +39,7 @@ Synapse Blue did take alot of effort to develop, but nothings perfect, and it do
 Console
 
 Vapelate managed to implement Roblox console logs with C# and LuaU communications, therefore a lua script has been placed in your auto-execute folder to display the logs inside the console. Though the optimization isn't the best, when the console logs get too large, the injection process and the whole program in general starts to misbehave, so i've made the program clear the console logs once it hits 6.5kb to avoid this. However, I assure you a better optimization solution will be added in future updates.
+
 
 We hope you enjoy this software as much as it was to create it, and again thank you kalash789 for sponsering this UI
 
