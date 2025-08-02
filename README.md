@@ -40,7 +40,7 @@ Console
 
 Vapelate managed to implement Roblox console logs with C# and LuaU communications, therefore a lua script has been placed in your auto-execute folder to display the logs inside the console. Though the optimization isn't the best, when the console logs get too large, the injection process and the whole program in general starts to misbehave, so i've made the program clear the console logs once it hits 6.5kb to avoid this. However, I assure you a better optimization solution will be added in future updates.
 
-We hope you enjoy this software as much as it was to create it, and again thank you kalash789 for sponsering this UI
+We hope you enjoy this software as much as it was to create it, and again thank you kalash789 for sponsoring this UI
 
 # To-Do
 
