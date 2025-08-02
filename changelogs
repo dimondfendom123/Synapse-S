@@ -1,2 +1,2 @@
- - If you want to reopen Synapse, there is a created desktop shortcut for you.
- - Initial Release, report any bugs please
+ - Fixed validating injection step, some users take longer times to inject (dependent on the CPU)
+ - Report any bugs to @vapelate or @_postrict.10!!!!!
