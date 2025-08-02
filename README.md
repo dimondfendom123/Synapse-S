@@ -7,9 +7,10 @@ Synapse S is the project name for the Synapse Blue and (soon) Synapse Legacy cus
 2. Install Synapse Installer.exe from the latest release
 3. Once its finished, launch Synapse Blue and you're good to use the UI.
 
-(Note: if you want to uninstall Synapse Blue, go to settings, press "Open Synapse Folder", close Synapse Bue, and delete the entire folder. This will be simplified in the near feature)
+(Note: if you want to **uninstall** Synapse Blue, go to settings, press "Open Synapse Folder", close Synapse Bue, and delete the entire folder. This will be simplified in the near feature)
 
 The Synapse Installer should make a shortcut named "Synapse" on the start menu, so whenever you want to open it up again, you can search for it in the windows search bar
+I temporarily disabled the experimental panel because it was just way to buggy and not worth the time to fix, but I will fix it soon. 
 
 
 # Documentation 
