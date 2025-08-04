@@ -1,9 +1,1 @@
- - Stabilized Auto Inject
- - Stabilized injection validation again
- - Fixed script hub + added Dex++ (u should try it out)
- - Made windows recognized Synapse as a official app
- - Added uninstaller (You can now uninstall synapse via control panel, only for users who install the ui after this release)
- - Fixed readme
- - Added Rayfield script support (TYSM FOR @TOMATO.TXT FOR DOING THIS)
- - Increased debug log reset rate
- - report any bugs plz
+ - fixed auto updater for portable build users, if your using a portable build PLEASE REDOWNLOAD YOUR BUILD, OR YOU WONT RECIVE AUTO UPDATES
