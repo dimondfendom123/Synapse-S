@@ -8,7 +8,7 @@ Synapse S is the project name for the Synapse Blue and (soon) Synapse Legacy cus
 2. Install Synapse Installer.exe from the latest release
 3. Once its finished, launch Synapse Blue and you're good to use the UI.
 
-(Note: if you want to **uninstall** Synapse Blue, go to settings, press "Open Synapse Folder", close Synapse Bue, and delete the entire folder. This will be simplified in the near feature)
+(Note: if you want to **uninstall** Synapse Blue, open control panel or windows settings, and click on Synapse by "sirgurt", and you can press uninstall)
 
 The Synapse Installer should make a shortcut named "Synapse" on the start menu, so whenever you want to open it up again, you can search for it in the windows search bar
  
@@ -39,6 +39,10 @@ Synapse Blue did take alot of effort to develop, but nothings perfect, and it do
 Console
 
 Vapelate managed to implement Roblox console logs with C# and LuaU communications, therefore a lua script has been placed in your auto-execute folder to display the logs inside the console. Though the optimization isn't the best, when the console logs get too large, the injection process and the whole program in general starts to misbehave, so i've made the program clear the console logs once it hits 6.5kb to avoid this. However, I assure you a better optimization solution will be added in future updates.
+
+Extra
+
+The experimental panel is currently disabled for the time being because of various bugs with it, the experimental panel is a set of debug options to adjust SirHurts performance. This UI also has a rayfield fix made by Tomato.txt, so you can now run rayfield scripts with this UI. Huge thanks to him. A last thing to point out is the installer, it currently doesnt create a offical desktop shortcut for the app, only a internet shortcut which is less reliable. This is because im not using the WiX toolset, but you can easily create a desktop shortcut yourself by going to file explorer, opening the Synapse Blue folder, and creating a shortcut for "Synapse.exe" and placing it inside AppData\Roaming\Microsoft\Windows\Start Menu\Programs. 
 
 We hope you enjoy this software as much as it was to create it, and again thank you kalash789 for sponsoring this UI
 
