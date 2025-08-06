@@ -1,2 +1,2 @@
- - fixed auto updater for portable build users, if your using a portable build PLEASE REDOWNLOAD YOUR BUILD, OR YOU WONT RECIVE AUTO UPDATES
- - fixed version labels 
+ - if your using a portable build you downloaded before version 1.1.1 PLEASE REDOWNLOAD YOUR BUILD, OR YOU WONT RECIVE AUTO UPDATES 
+ - had to update sirhurt for u bcz for some reason the new update still says "5.377" so the auto updater didnt trigger
