@@ -1,2 +1,5 @@
- - if your using a portable build you downloaded before version 1.1.1 PLEASE REDOWNLOAD YOUR BUILD, OR YOU WONT RECIVE AUTO UPDATES 
- - had to update sirhurt for u bcz for some reason the new update still says "5.377" so the auto updater didnt trigger
+ - fixed dll validation step (injection indicator should now always be correct)
+ - cleaned up and fixed the version indicator in the readme
+ - fixed version check for sirstrap
+ - Use secureprint() and securewarn() for the autoexe scripts
+ - spoofer does nothing atm but ill add something int he future 
